@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "991866940618",
+    "firebase_url": "https://helptou-7a216.firebaseio.com",
+    "project_id": "helptou-7a216",
+    "storage_bucket": "helptou-7a216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991866940618:android:138a134a2c23676b",
+        "android_client_info": {
+          "package_name": "com.example.youna.mayi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991866940618-6a6jnf17r24knuj8j1u0u2fbjqom113e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youna.mayi",
+            "certificate_hash": "50eea8861830c6267b74ecc67caa0df04c875ec0"
+          }
+        },
+        {
+          "client_id": "991866940618-bd51lchcfenbjn1vakm0o802hmmk0ngj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youna.mayi",
+            "certificate_hash": "cf615870714ba6bae100c53e9aa98533e3c91970"
+          }
+        },
+        {
+          "client_id": "991866940618-agls11b6obg9in80ekfpsu31etp8ktke.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "991866940618-agls11b6obg9in80ekfpsu31etp8ktke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhdu7HVmK3zO-gqYgjsL5lkGu_kGp81w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991866940618-agls11b6obg9in80ekfpsu31etp8ktke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991866940618:android:bc6512ca5bdfc186",
+        "android_client_info": {
+          "package_name": "com.example.youna.mayii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991866940618-a55lf0s1unghi7im50upj2nt41d96kol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youna.mayii",
+            "certificate_hash": "50eea8861830c6267b74ecc67caa0df04c875ec0"
+          }
+        },
+        {
+          "client_id": "991866940618-agls11b6obg9in80ekfpsu31etp8ktke.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "991866940618-agls11b6obg9in80ekfpsu31etp8ktke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhdu7HVmK3zO-gqYgjsL5lkGu_kGp81w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991866940618-agls11b6obg9in80ekfpsu31etp8ktke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
